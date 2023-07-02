@@ -24,7 +24,7 @@ int main()
     int iValue = 0;
     BOOL bRet = FALSE;
 
-    printf("\n Enter Number = ");
+    printf("\n Enter Number= ");
     scanf("%d",&iValue);
 
     bRet = ChkEvent(iValue);
